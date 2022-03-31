@@ -66,7 +66,7 @@
       positionIterations: 6,
       velocityIterations: 6,
       enableSleeping: false,
-      timeScale: 0.75
+      timeScale: 1.0
     };
 
     // create a Matter engine, with the element to insert the canvas into
